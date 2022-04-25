@@ -770,8 +770,9 @@ nav ul li a.active {
     width: 60%;
 }
 .article-img {
-    padding-left: 15px;
-    padding-right: 15px;
+    width: 200px;
+    height: 200px;
+    padding: 15px;
 }
 .article-overlay {
     height: 100%;
